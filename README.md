@@ -1,3 +1,3 @@
-# zamkovich
+# Zamkovich
 
 work in progress
